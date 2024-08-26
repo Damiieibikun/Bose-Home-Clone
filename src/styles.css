@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'bose-headBlack';
+    src: url(../public/fonts/Bose-HeadlineBlack.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'bose-regular';
+    src: url(../public/fonts/BoseText-Regular.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'bose-medium';
+    src: url(../public/fonts/BoseText-Medium.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'bose-headBold';
+    src: url(../public/fonts/Bose-HeadlineBold.woff2) format('woff2');
+}
+
+@font-face {
+    font-family: 'bose-bold';
+    src: url(../public/fonts/BoseText-Bold.woff2) format('woff2');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;

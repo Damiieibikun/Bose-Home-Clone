@@ -1,0 +1,14 @@
+{
+  "name": "bose-home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "tl-css": "tailwindcss -i src/styles.css -o public/styles.css --watch"
+  },
+  "author": "Damilola",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "tailwindcss": "^3.4.10"
+  }
+}
