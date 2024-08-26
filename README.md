@@ -12,3 +12,4 @@ Technologies used:
 * Tailwind
   * Requires node -^3.4.10
 * Jquery
+* Slick js
